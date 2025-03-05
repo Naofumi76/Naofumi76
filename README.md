@@ -15,8 +15,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)  
 
 ## My GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naofumi76&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naofumi76&layout=compact&theme=radical)  
 
 ## Featured Projects  
 - [Netcat](https://github.com/naofumi76/netcat) - A chat conversation between users in windows terminal.
