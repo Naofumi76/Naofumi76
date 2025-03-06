@@ -28,7 +28,7 @@
   - 📝 Users can create posts, comment, and interact with other members.
   - 👤 Profile management with customizable user settings.
 
-- **[Netcat](https://github.com/naofumi76/netcat)**
+- **[Net-cat](https://github.com/naofumi76/net-cat)**
   - 💬 Terminal-based chat application for Windows built in Go.
   - ⚡ Allow direct communications between users.
 
